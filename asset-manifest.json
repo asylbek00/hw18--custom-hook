@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw18--custom-hook/static/css/main.4746528c.css",
+    "main.js": "/hw18--custom-hook/static/js/main.480d6a83.js",
+    "index.html": "/hw18--custom-hook/index.html",
+    "main.4746528c.css.map": "/hw18--custom-hook/static/css/main.4746528c.css.map",
+    "main.480d6a83.js.map": "/hw18--custom-hook/static/js/main.480d6a83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4746528c.css",
+    "static/js/main.480d6a83.js"
+  ]
+}
